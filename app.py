@@ -4,7 +4,20 @@ from datetime import datetime
 # --- Configuration ---
 st.set_page_config(page_title="23 Reasons Why I Love You", layout="centered")
 st.title("❤️ 23 Reasons Why I Love You")
-st.markdown("### Happy Birthday Max!")
+st.markdown("#### To you, on your 23rd birthday")
+
+st.markdown("""
+There are so many things I admire about you —  
+big ones, small ones, loud and quiet ones.  
+I tried to collect some of them here.  
+
+12 you can open now.  
+11 will wait for you — one each month, until your next birthday.
+
+Because some things are better when they unfold slowly.  
+
+Happy Birthday, Max.  
+""")
 
 # --- Data ---
 reasons = [
