@@ -9,14 +9,14 @@ st.markdown("### Happy Birthday Max!")
 # --- Data ---
 reasons = [
 {"type": "text", "content": "Because I always feel truly heard by you."},
-{"type": "text", "content": "Because even with all the language barriers, you’ve never made me feel stupid"},
+{"type": "text", "content": "Because even with all the language barriers, you’ve never made me feel stupid."},
 {"type": "text", "content": "Because you have a beautiful soul."},
 {"type": "text", "content": "Because no matter what it's about, you never give up."},
 {"type": "text", "content": "Because I can be completely myself with you."},
 {"type": "text", "content": "Because even silence feels warm when I’m with you."},
 {"type": "text", "content": "Because with you, even the hardest things in life seem simple."},
 {"type": "text", "content": "Because your scent smells like home."},
-{"type": "text", "content": "Because when you explain something you care about, your eyes light up"},
+{"type": "text", "content": "Because when you explain something you care about, your eyes light up."},
 {"type": "text", "content": "Because you make every trip we take together feel perfect."},
 {"type": "text", "content": "Because you make me laugh even when I don’t want to."},
 {"type": "text", "content": "Because you always try to give your best while staying true to who you are."},
